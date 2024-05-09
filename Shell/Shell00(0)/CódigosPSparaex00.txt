@@ -1,0 +1,7 @@
+PS C:\Users\pedro\ex00> New-Item -Path C:\Users\pedro\ex00\z -ItemType File
+
+PS C:\Users\pedro\ex00> Set-Content -Path C:\Users\pedro\ex00\z -Value "Z"
+
+PS C:\Users\pedro\ex00> cat z
+Z
+
